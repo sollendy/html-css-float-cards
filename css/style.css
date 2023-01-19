@@ -21,3 +21,11 @@ header h1{
     color: rgb(244, 68, 112);
 }
 
+.float-righe{
+    float: left;
+}
+
+.carte{
+    display: inline-block;
+    
+}
