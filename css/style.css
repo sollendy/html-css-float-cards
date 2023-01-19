@@ -50,11 +50,12 @@ img{
 }
 
 .carte{
-    display: inline-block;
     height: 100px;
     width: auto;
+    display: inline-block;
 }
 
 .mail{
     color: rgb(0, 183, 255);
 }
+
