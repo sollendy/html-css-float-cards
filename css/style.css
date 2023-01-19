@@ -22,14 +22,17 @@ header h1{
 }
 
 .float-righe{
-    float: left;
+    /* float: left; */
 }
+
 /* perché non funziona??? */
+
 .carte{
-    height: 1px;
+    float: left;
+    /* height: 1px;
     width: 1px;
-    margin: 20px;
-    display: inline-block;
+    margin: 20px; */
+    /* display: inline-block; */
     /* text-align: center; */
 
 }
